@@ -5,7 +5,7 @@ import io
 
 st.set_page_config(page_title="Removedor de Pinos KML/KMZ", page_icon="📍")
 
-st.title("Removedor de PIN(s) (Pontos) KML/KMZ")
+st.title("Removedor de PIN(s) em arquivos KML/KMZ")
 st.write("Faça o upload do seu arquivo de mapa para remover automaticamente todos os marcadores de ponto (pinos), mantendo polígonos e linhas intactos.")
 
 # Botão para inserir o arquivo
